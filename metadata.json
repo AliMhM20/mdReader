@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Viewer & PDF/Text Exporter",
+  "description": "Windows-style Markdown viewer and converter with drag-and-drop, rich formatting, and direct export to PDF, TXT, and HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
